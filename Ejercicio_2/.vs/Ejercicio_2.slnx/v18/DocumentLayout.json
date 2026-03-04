@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laboratorio_M\\-EIF201-Programaci-n-I-IC2026\\Ejercicio_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B64BE246-E25F-4696-9B21-26E706F56112}|Ejercicio_2\\Ejercicio_2.vcxproj|C:\\Users\\Laboratorio_M\\-EIF201-Programaci-n-I-IC2026\\Ejercicio_2\\Ejercicio_2\\Arreglo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B64BE246-E25F-4696-9B21-26E706F56112}|Ejercicio_2\\Ejercicio_2.vcxproj|solutionrelative:Ejercicio_2\\Arreglo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64BE246-E25F-4696-9B21-26E706F56112}|Ejercicio_2\\Ejercicio_2.vcxproj|C:\\Users\\Laboratorio_M\\-EIF201-Programaci-n-I-IC2026\\Ejercicio_2\\Ejercicio_2\\Ejercicio_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B64BE246-E25F-4696-9B21-26E706F56112}|Ejercicio_2\\Ejercicio_2.vcxproj|solutionrelative:Ejercicio_2\\Ejercicio_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64BE246-E25F-4696-9B21-26E706F56112}|Ejercicio_2\\Ejercicio_2.vcxproj|C:\\Users\\Laboratorio_M\\-EIF201-Programaci-n-I-IC2026\\Ejercicio_2\\Ejercicio_2\\Arr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B64BE246-E25F-4696-9B21-26E706F56112}|Ejercicio_2\\Ejercicio_2.vcxproj|solutionrelative:Ejercicio_2\\Arr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arr.cpp",
+              "DocumentMoniker": "C:\\Users\\Laboratorio_M\\-EIF201-Programaci-n-I-IC2026\\Ejercicio_2\\Ejercicio_2\\Arr.cpp",
+              "RelativeDocumentMoniker": "Ejercicio_2\\Arr.cpp",
+              "ToolTip": "C:\\Users\\Laboratorio_M\\-EIF201-Programaci-n-I-IC2026\\Ejercicio_2\\Ejercicio_2\\Arr.cpp",
+              "RelativeToolTip": "Ejercicio_2\\Arr.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T04:27:52.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arreglo.h",
+              "DocumentMoniker": "C:\\Users\\Laboratorio_M\\-EIF201-Programaci-n-I-IC2026\\Ejercicio_2\\Ejercicio_2\\Arreglo.h",
+              "RelativeDocumentMoniker": "Ejercicio_2\\Arreglo.h",
+              "ToolTip": "C:\\Users\\Laboratorio_M\\-EIF201-Programaci-n-I-IC2026\\Ejercicio_2\\Ejercicio_2\\Arreglo.h",
+              "RelativeToolTip": "Ejercicio_2\\Arreglo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T04:25:25.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Laboratorio_M\\-EIF201-Programaci-n-I-IC2026\\Ejercicio_2\\Ejercicio_2\\Ejercicio_2.cpp",
+              "RelativeDocumentMoniker": "Ejercicio_2\\Ejercicio_2.cpp",
+              "ToolTip": "C:\\Users\\Laboratorio_M\\-EIF201-Programaci-n-I-IC2026\\Ejercicio_2\\Ejercicio_2\\Ejercicio_2.cpp",
+              "RelativeToolTip": "Ejercicio_2\\Ejercicio_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T04:24:42.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
